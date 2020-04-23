@@ -1,0 +1,20 @@
+﻿city,FAA,IATA,ICAO,name,role,enplanements
+Los Angeles,LAX,LAX,KLAX,Los Angeles International Airport,P-L,39636042
+San Francisco,SFO,SFO,KSFO,San Francisco International Airport,P-L,25707101
+San Diego,SAN,SAN,KSAN,San Diego International Airport (Lindbergh Field),P-L,10340164
+Oakland,OAK,OAK,KOAK,Oakland International Airport,P-M,5934639
+San Jose,SJC,SJC,KSJC,Norman Y. Mineta San José International Airport,P-M,5321603
+Orange County,SNA,SNA,KSNA,John Wayne Airport (was Orange County Airport),P-M,5217242
+Sacramento,SMF,SMF,KSMF,Sacramento International Airport,P-M,4969366
+Ontario,ONT,ONT,KONT,Ontario International Airport,P-M,2104625
+Burbank,BUR,BUR,KBUR,Hollywood Burbank Airport (was Bob Hope Airport),P-M,2077892
+Long Beach,LGB,LGB,KLGB,Long Beach Airport (Daugherty Field),P-S,1386357
+Palm Springs,PSP,PSP,KPSP,Palm Springs International Airport,P-S,995801
+Fresno,FAT,FAT,KFAT,Fresno Yosemite International Airport,P-S,761298
+Santa Barbara,SBA,SBA,KSBA,Santa Barbara Municipal Airport (Santa Barbara Airport),P-N,329751
+Monterey,MRY,MRY,KMRY,Monterey Regional Airport (was Monterey Peninsula Airport),P-N,192136
+Santa Rosa,STS,STS,KSTS,Charles M. Schulz–Sonoma County Airport,P-N,167151
+San Luis Obispo,SBP,SBP,KSBP,San Luis Obispo County Regional Airport (McChesney Field),P-N,162719
+Bakersfield,BFL,BFL,KBFL,Meadows Field,P-N,100433
+Stockton,SCK,SCK,KSCK,Stockton Metropolitan Airport,P-N,93076
+Arcata/Eureka,ACV,ACV,KACV,Arcata Airport,P-N,69732
