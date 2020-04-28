@@ -1,20 +1,20 @@
-airport,name,then,now,change
-ACV,Arcata Airport,14,6,-57.14
-BFL,Meadows Field,41,26,-36.59
-BUR,Hollywood Burbank Airport ,179,48,-73.18
-FAT,Fresno Yosemite International Airport,63,37,-41.27
-LAX,Los Angeles International Airport,1091,386,-64.62
-LGB,Long Beach Airport ,139,38,-72.66
-MRY,Monterey Regional Airport ,44,13,-70.45
-OAK,Oakland International Airport,292,119,-59.25
-ONT,Ontario International Airport,168,110,-34.52
-PSP,Palm Springs International Airport,87,22,-74.71
-SAN,San Diego International Airport ,368,135,-63.32
-SBA,Santa Barbara Municipal Airport ,85,27,-68.24
-SBP,San Luis Obispo County Regional Airport ,62,23,-62.9
-SCK,Stockton Metropolitan Airport,17,6,-64.71
-SFO,San Francisco International Airport,715,190,-73.43
-SJC,Norman Y. Mineta San José International Airport,336,75,-77.68
-SMF,Sacramento International Airport,219,95,-56.62
-SNA,John Wayne Airport ,234,52,-77.78
-STS,Charles M. Schulz–Sonoma County Airport,46,22,-52.17
+facility,March 3,April 21,change
+Arcata,17.0,8.0,-52.94
+Meadows Field,69.0,40.0,-42.03
+Bob Hope,168.0,48.0,-71.43
+Fresno Yosemite,89.0,29.0,-67.42
+Los Angeles,1089.0,273.0,-74.93
+Long Beach ,181.0,69.0,-61.88
+Monterey  Peninsula,61.0,20.0,-67.21
+Metropolitan Oakland,280.0,104.0,-62.86
+Ontario,170.0,105.0,-38.24
+Palm Springs,113.0,22.0,-80.53
+San Diego,387.0,107.0,-72.35
+Santa Barbara Municipal,84.0,28.0,-66.67
+San Luis Obispo County,72.0,27.0,-62.5
+Stockton Metropolitan,40.0,11.0,-72.5
+San Francisco,728.0,136.0,-81.32
+San Jose,309.0,63.0,-79.61
+Sacramento,224.0,75.0,-66.52
+John Wayne,248.0,80.0,-67.74
+Sonoma County,50.0,24.0,-52.0
